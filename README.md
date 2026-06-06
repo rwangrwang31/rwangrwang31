@@ -24,4 +24,4 @@ _I work around PDF/DOCX pipelines, agent workflows, and systems foundations. I c
 
 <br>
 
-<img src="./github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution grid" />
+<img src="https://raw.githubusercontent.com/rwangrwang31/rwangrwang31/main/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
