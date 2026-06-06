@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/180031282?v=4" width="190px" height="auto" alt="Soyo Nagasaki" align="right" />
+<img src="./image/soyo.jpg" width="200px" height="auto" alt="Soyo Nagasaki profile illustration" align="right" />
 
 <div align="center">
 
@@ -21,6 +21,10 @@ _✨  CS student at **Harbin Institute of Technology, Shenzhen**, building pract
 _I work around PDF/DOCX pipelines, agent workflows, and systems foundations. I care about small tools that can be inspected, reused, and trusted._
 
 <sub><em>Nice to meet you. May the work be clear and the artifacts remain useful.</em></sub>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/rwangrwang31/rwangrwang31/main/profile-dense-grid.svg" width="100%" alt="Dense profile grid" />
 
 <br>
 
