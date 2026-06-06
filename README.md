@@ -1,31 +1,21 @@
-<img src="./image/soyo.jpg" width="200px" height="auto" alt="Soyo Nagasaki profile illustration" align="right" />
+# Soyo Nagasaki
 
-<div align="center">
+> 我喜欢把混乱的工作变成清晰的工具。  
+> I like tools that make messy work traceable.  
+> Small systems, clear artifacts, quiet persistence.
 
-> <p align="left"><em>
->     <br>
->     我喜欢把混乱的工作变成清晰的工具。
->     <br>
->     I like tools that make messy work traceable.
->     <br>
->     Small systems, clear artifacts, quiet persistence.
-> </em></p>
-> <p align="right">
->     &mdash;&mdash;&mdash; local documents / agents / systems
-> </p>
+Computer Science student at **Harbin Institute of Technology, Shenzhen**.
 
-</div>
+I work around PDF/DOCX pipelines, agent workflows, and systems foundations. I care about small tools that can be inspected, reused, and trusted.
 
-_✨  CS student at **Harbin Institute of Technology, Shenzhen**, building practical local-first tooling.  ✨_
+Current focus:
 
-_I work around PDF/DOCX pipelines, agent workflows, and systems foundations. I care about small tools that can be inspected, reused, and trusted._
+- Local-first document tooling
+- Agent workflows that leave clear artifacts
+- Systems foundations: operating systems, compilers, databases, and networks
 
-<sub><em>Nice to meet you. May the work be clear and the artifacts remain useful.</em></sub>
+Featured work:
 
-<br>
+- [vellum](https://github.com/rwangrwang31/vellum): a local PDF/DOCX workbench for rendering, QA, conversion, and artifact tracking.
 
-<img src="https://raw.githubusercontent.com/rwangrwang31/rwangrwang31/main/profile-dense-grid.svg" width="100%" alt="Dense profile grid" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/rwangrwang31/rwangrwang31/main/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
+Nice to meet you. May the work be clear and the artifacts remain useful.
