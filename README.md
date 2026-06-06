@@ -1,15 +1,27 @@
-# Soyo Nagasaki
+<img src="https://avatars.githubusercontent.com/u/180031282?v=4" width="190px" height="auto" alt="Soyo Nagasaki" align="right" />
 
-Computer Science student at Harbin Institute of Technology, Shenzhen.
+<div align="center">
 
-I build small, inspectable systems for messy work: document pipelines, local automation, and AI-assisted developer workflows.
+> <p align="left"><em>
+>     <br>
+>     我喜欢把混乱的工作变成清晰的工具。
+>     <br>
+>     I like tools that make messy work traceable.
+>     <br>
+>     Small systems, clear artifacts, quiet persistence.
+> </em></p>
+> <p align="right">
+>     &mdash;&mdash;&mdash; local documents / agents / systems
+> </p>
 
-## Current Focus
+</div>
 
-- Local-first PDF/DOCX tooling
-- Agent workflows that leave clear artifacts
-- Systems foundations: operating systems, compilers, databases, and networks
+_✨  CS student at **Harbin Institute of Technology, Shenzhen**, building practical local-first tooling.  ✨_
 
-## Featured Work
+_I work around PDF/DOCX pipelines, agent workflows, and systems foundations. I care about small tools that can be inspected, reused, and trusted._
 
-- [vellum](https://github.com/rwangrwang31/vellum): a local PDF/DOCX workbench for rendering, QA, conversion, and artifact tracking.
+<sub><em>Nice to meet you. May the work be clear and the artifacts remain useful.</em></sub>
+
+<br>
+
+<img src="./github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution grid" />
